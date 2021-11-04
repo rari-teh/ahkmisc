@@ -29,8 +29,8 @@ return
 on:
 Menu, Tray, Check, Enabled
 Menu, Tray, Uncheck, Disabled
-state = 1
 Menu, Tray, Icon, SimulRes.dll, 1
+state = 1
 return
 
 off:
